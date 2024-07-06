@@ -58,7 +58,7 @@
 | 网站生成器 | Starlight | 构建一流文档网站所需的一切。快速、易访问、易使用 | https://starlight.astro.build/ |
 |  | VitePress | 由Vite&Vue驱动的静态网站生成器 | https://vitepress.dev/vitepress-logo-mini.svg |
 |  | Nextra | 一个Next.js静态网站生成器 | https://nextra.site/ |
-| Node工具链 | Bun | 使用Bun开发、测试、运行和打包JavaScript和TypeScript项目 | https://bun.sh/favicon.ico |
+| Node工具链 | Bun | 使用Bun开发、测试、运行和打包JavaScript和TypeScript项目 | https://bun.sh |
 |  | Deno | 一个安全的JavaScript和TypeScript运行时 | https://deno.land |
 |  | Node.js | 基于Chrome V8引擎的Node.js,用于构建快速可扩展的网络应用 | https://nodejs.org/ |
 |  | Turbo | Turbo是一个用Rust编写的针对JavaScript和TypeScript优化的增量打包器和构建系统 | https://turbo.build |
