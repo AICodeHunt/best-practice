@@ -62,7 +62,7 @@ However, before submitting a self-recommendation PR, we advise you to engage in 
 | Site generator | Starlight | Everything you need to build a stellar documentation website. Fast, accessible, and easy-to-use. | https://starlight.astro.build/ |
 |  | VitePress | Vite & Vue powered static site generator | https://vitepress.dev/vitepress-logo-mini.svg |
 |  | Nextra | A Next.js static site generator | https://nextra.site/ |
-| Node ToolChain | Bun | Develop, test, run, and bundle JavaScript & TypeScript projects—all with Bun | https://bun.sh/favicon.ico |
+| Node ToolChain | Bun | Develop, test, run, and bundle JavaScript & TypeScript projects—all with Bun | https://bun.sh |
 |  | Deno | A secure runtime for JavaScript and TypeScript | https://deno.land |
 |  | Node.js | Node.js based on Chrome V8 engine for building fast and scalable network applications. | https://nodejs.org/ |
 |  | Turbo | Turbo is an incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust | https://turbo.build |
